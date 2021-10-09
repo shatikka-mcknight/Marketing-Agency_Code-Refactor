@@ -1,6 +1,14 @@
 # Code-Refactor
 Web development: accessibility. Mission:  Take existing code and refactor it (recall that to refactor code is to improve it without changing what it does)
 
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
 Class requirements Homework Critera:
 
 Added Semantic HTML elements
