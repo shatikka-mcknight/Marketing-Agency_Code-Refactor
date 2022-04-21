@@ -38,9 +38,8 @@ Added Alt tags to all imagery
 *I moved the class float-left & float right to the beginning of the element content*
 
 Change .Class to #ID Variables
-Combine content section into one class - content-catogories
-
-Combine benefits section into one class - benefit-services
+Combine content section into one class - content
+Combine benefits section into one class - benefits
 
 CSS Additional Updates
 - add nav within the .header (div) to .header nav
@@ -50,3 +49,6 @@ CSS Additional Updates
 - Rearrange class and id in the order it appears within the HTML index.html file
 
 I hade issue with github  'error: failed to push some refs to'
+
+## Feature to apply next
+- Make mobile friendly
